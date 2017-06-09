@@ -1,0 +1,16 @@
+age height haircolor hair eyecolor boobs figure gender
+12 172 blonde long blue c sporty female
+13 172 blonde long blue c sporty female
+14 172 blonde long blue c sporty female
+15 172 blonde long blue c sporty female
+16 172 blonde long blue c sporty female
+17 172 blonde long blue c sporty female
+18 172 blonde long blue c sporty female
+19 172 blonde long blue c sporty female
+20 172 blonde long blue c sporty female
+22 172 blonde long blue c sporty female
+25 172 blonde long blue c sporty female
+30 172 blonde long blue c sporty female
+40 172 blonde long blue c sporty female
+50 172 blonde long blue c sporty female
+

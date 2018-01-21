@@ -7,3 +7,13 @@ C:\Users\martin.schneider\Desktop\C#\PizzaRechner\PizzaRechner\obj\Debug\netcore
 C:\Users\martin.schneider\Desktop\C#\PizzaRechner\PizzaRechner\obj\Debug\netcoreapp1.1\PizzaRechner.AssemblyInfo.cs
 C:\Users\martin.schneider\Desktop\C#\PizzaRechner\PizzaRechner\obj\Debug\netcoreapp1.1\PizzaRechner.dll
 C:\Users\martin.schneider\Desktop\C#\PizzaRechner\PizzaRechner\obj\Debug\netcoreapp1.1\PizzaRechner.pdb
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\PizzaRechner\PizzaRechner\bin\Debug\netcoreapp1.1\PizzaRechner.deps.json
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\PizzaRechner\PizzaRechner\bin\Debug\netcoreapp1.1\PizzaRechner.runtimeconfig.json
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\PizzaRechner\PizzaRechner\bin\Debug\netcoreapp1.1\PizzaRechner.runtimeconfig.dev.json
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\PizzaRechner\PizzaRechner\bin\Debug\netcoreapp1.1\PizzaRechner.dll
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\PizzaRechner\PizzaRechner\bin\Debug\netcoreapp1.1\PizzaRechner.pdb
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\PizzaRechner\PizzaRechner\obj\Debug\netcoreapp1.1\PizzaRechner.csprojResolveAssemblyReference.cache
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\PizzaRechner\PizzaRechner\obj\Debug\netcoreapp1.1\PizzaRechner.csproj.CoreCompileInputs.cache
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\PizzaRechner\PizzaRechner\obj\Debug\netcoreapp1.1\PizzaRechner.AssemblyInfo.cs
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\PizzaRechner\PizzaRechner\obj\Debug\netcoreapp1.1\PizzaRechner.dll
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\PizzaRechner\PizzaRechner\obj\Debug\netcoreapp1.1\PizzaRechner.pdb

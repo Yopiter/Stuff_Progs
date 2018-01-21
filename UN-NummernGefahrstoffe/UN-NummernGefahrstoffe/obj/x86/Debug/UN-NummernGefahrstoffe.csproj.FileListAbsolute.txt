@@ -12,3 +12,12 @@ C:\Users\martin.schneider\Desktop\C#\UN-NummernGefahrstoffe\UN-NummernGefahrstof
 C:\Users\martin.schneider\Desktop\C#\UN-NummernGefahrstoffe\UN-NummernGefahrstoffe\obj\x86\Debug\UN_NummernGefahrstoffe.Properties.Resources.resources
 C:\Users\martin.schneider\Desktop\C#\UN-NummernGefahrstoffe\UN-NummernGefahrstoffe\obj\x86\Debug\UN-NummernGefahrstoffe.csproj.GenerateResource.Cache
 C:\Users\martin.schneider\Desktop\C#\UN-NummernGefahrstoffe\UN-NummernGefahrstoffe\obj\x86\Debug\UN_NummernGefahrstoffe.GUI.resources
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\UN-NummernGefahrstoffe\UN-NummernGefahrstoffe\bin\Debug\UN-NummernGefahrstoffe.exe
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\UN-NummernGefahrstoffe\UN-NummernGefahrstoffe\bin\Debug\UN-NummernGefahrstoffe.pdb
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\UN-NummernGefahrstoffe\UN-NummernGefahrstoffe\obj\x86\Debug\UN-NummernGefahrstoffe.csprojResolveAssemblyReference.cache
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\UN-NummernGefahrstoffe\UN-NummernGefahrstoffe\obj\x86\Debug\UN_NummernGefahrstoffe.GUI.resources
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\UN-NummernGefahrstoffe\UN-NummernGefahrstoffe\obj\x86\Debug\UN_NummernGefahrstoffe.Properties.Resources.resources
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\UN-NummernGefahrstoffe\UN-NummernGefahrstoffe\obj\x86\Debug\UN-NummernGefahrstoffe.csproj.GenerateResource.Cache
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\UN-NummernGefahrstoffe\UN-NummernGefahrstoffe\obj\x86\Debug\UN-NummernGefahrstoffe.csproj.CoreCompileInputs.cache
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\UN-NummernGefahrstoffe\UN-NummernGefahrstoffe\obj\x86\Debug\UN-NummernGefahrstoffe.exe
+C:\Users\martin.schneider\Desktop\C#\Stuff_Progs\UN-NummernGefahrstoffe\UN-NummernGefahrstoffe\obj\x86\Debug\UN-NummernGefahrstoffe.pdb
